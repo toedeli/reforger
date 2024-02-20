@@ -3,7 +3,7 @@
         "ConfigFile":"Configs/serverconfig.json",
         "AutoMap":true,
         "ConfigType":"template",
-        "ConfigFileTemplate":"arma-reforger/AMP_serverconfig.json"
+        "ConfigFileTemplate":"arma1-reforger/AMP_serverconfig.json"
     },
     {
         "ConfigFile":"battleye/BEServer_x64.cfg",
